@@ -1,0 +1,39 @@
+[
+  {
+    "id": 2,
+    "nombre": "juan",
+    "edad": 26,
+    "carrera": "ing",
+    "correo": "criss@gmail.com",
+    "notas": [
+      {
+        "materia": "mate",
+        "nota": 8.0
+      },
+      {
+        "materia": "mate",
+        "nota": 9.0
+      },
+      {
+        "materia": "mate",
+        "nota": 9.0
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "juan",
+    "edad": 26,
+    "carrera": "ing",
+    "correo": "hsdjh@gmail.com",
+    "notas": []
+  },
+  {
+    "id": 4,
+    "nombre": "michael",
+    "edad": 16,
+    "carrera": "tecnico",
+    "correo": "flores.maykol@gmail.com",
+    "notas": []
+  }
+]
